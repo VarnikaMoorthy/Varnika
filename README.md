@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **PL/SQL, Oracle, and Backend Development**
 - 💼 Previous Experience: Software Developer Trainee @ Shloklabs | HR Intern @ Aditya Birla Finance
 - 💡 Skills: Java, C++, PHP, .NET, SQL, Web Security
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varnika-moorthy-84411324a) | [Email](mailto:varnikamoorthy7788@gmail.com)
 
 ---
 
@@ -31,5 +31,5 @@
 ---
 
 ### 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varnika-moorthy-84411324a)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:varnikamoorthy7788@gmail.com)
