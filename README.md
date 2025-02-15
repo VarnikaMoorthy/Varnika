@@ -1,35 +1,35 @@
-<h1 align="center"> 🌟 Hi, I'm Varnika Moorthy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center"> 🌟 Hi, I'm Varnika M! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=28F77E&width=500&lines=Software+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=28F77E&width=500&lines=Backend+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-- 💻 Currently learning: ** Backend Development **  
+- 💻 Currently learning: **Backend Development, PL/SQL, Oracle**  
 - 🛠️ Experience: Software Developer Trainee @ Shloklabs | HR Intern @ Aditya Birla Finance  
-- 💡 Skills: Java, C++, PHP, .NET, SQL, Web development  
-- 🎯 Seeking: **Software Developer Roles**  
-- 🏆 Awards: RAJYAPURASKAR Award from the Governor of Tamil Nadu   
+- 💡 Skills: Java, C++, PHP, .NET, SQL, Web Security  
+- 🎯 Seeking: **Backend Developer Roles**  
+- 🏆 Awards: RAJYAPURASKAR Award from the Governor of Tamil Nadu  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,php,dotnet,mysql,plsql,html,css,js,git,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,php,dotnet,mysql,plsql,git,vscode,aws,linux" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VarnikaM&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VarnikaM&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VarnikaM&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VarnikaM&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarnikaM&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarnikaM&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 🧩 Featured Projects  
 ### 🚀 Pro Inspector (Shloklabs)  
 - 🛠 **Tech:** `.NET`, `SQL`, `C#`  
-- 📊 Built enterprise-level inspection management software.  
+- 📊 Enterprise-level inspection management software.  
 - 🔗 [GitHub Repository](#) | 🖥️ [Live Demo](#)  
 
 ### 💹 Bitcoin Price Prediction  
@@ -70,8 +70,8 @@
 ---
 
 ### 📢 Fun Fact  
-> 🌟 *"I believe in learning and growing every day to become the best version of myself."* 🌱  
+> 🌟 *"I focus on backend development and solving complex problems to build efficient systems."* 🌱  
 
 ---
 
-⭐ **Don't forget to star my repositories if you find them useful!** 😎✨  
+⭐ **Don't forget to star my repositories if you find them useful!** 😎✨
