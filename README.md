@@ -19,8 +19,9 @@
 
 ## 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,php,dotnet,mysql,git,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,php,dotnet,mysql,git,aws,nodejs,vscode" />
 </p>
+
 
 ---
 
@@ -38,13 +39,20 @@
 
 ### 🛒 E-Commerce Website  
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-🛆 Built a **complete eCommerce website** with **cart, checkout & order management features**.  
 
-🛡️ Implemented **secure authentication & dynamic inventory management**.  
+🛍️ **Developed a backend for an eCommerce platform** using **Node.js, Express.js, and MySQL**, enabling seamless order management.  
+
+🔐 Implemented **secure user authentication, role-based access, and encrypted transactions**.  
+
+📦 Designed **RESTful APIs** for handling product listings, cart operations, checkout processing, and order history.  
+
+🚀 Optimized **database queries and backend logic** to ensure scalability and efficiency.  
 
 🔗 **Repo:** [E-Commerce-Website](https://github.com/VarnikaMoorthy/E-Commerce-Website)  
+
 
 
 ### 🎉 Event Management System  
