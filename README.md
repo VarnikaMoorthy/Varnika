@@ -25,16 +25,36 @@
 ---
 
 ## 💡 **Projects & Innovations**  
-<h3>🚀 Bitcoin Price Prediction Using ML</h3>
+
+### 🚀 Bitcoin Price Prediction Using ML  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<p>📊 Built a **Bitcoin price prediction model** using **Linear Regression & Random Forest**.</p>
+📊 Developed a **Bitcoin price prediction model** using **Machine Learning (Linear Regression & Random Forest)**.  
+
+💡 Utilized **historical price data** to enhance **accuracy in forecasting trends**.  
+
 🔗 **Repo:** [Bitcoin-Price-Prediction-Using-ML](https://github.com/VarnikaMoorthy/Bitcoin-Price-Prediction-Using-ML)  
 
-<h3>🎯 Event Management System</h3>
+
+### 🛒 E-Commerce Website  
+
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<p>📊 Developed a **dynamic event booking system** with an **admin dashboard & user-friendly UI**.</p>
+🛆 Built a **complete eCommerce website** with **cart, checkout & order management features**.  
+
+🛡️ Implemented **secure authentication & dynamic inventory management**.  
+
+🔗 **Repo:** [E-Commerce-Website](https://github.com/VarnikaMoorthy/E-Commerce-Website)  
+
+
+### 🎉 Event Management System  
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+📅 Developed a **dynamic event booking system** with **secure login & admin approval dashboard**.  
+
+📌 Integrated **venue selection, event tracking & automated notifications**.  
+
 🔗 **Repo:** [Event-Management-Company](https://github.com/VarnikaMoorthy/Event-Management-Company)  
 
 ---
@@ -64,5 +84,4 @@
   </a>
 </p>
 
----
 
