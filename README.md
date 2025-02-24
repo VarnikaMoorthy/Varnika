@@ -51,7 +51,7 @@
 
 🚀 Optimized **database queries and backend logic** to ensure scalability and efficiency.  
 
-🔗 **Repo:** [E-Commerce-Website](https://github.com/VarnikaMoorthy/E-Commerce-Website)  
+🔗 **Repo:** [E-Commerce-Website](https://github.com/VarnikaMoorthy/ECommerce)  
 
 
 
