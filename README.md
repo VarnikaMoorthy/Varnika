@@ -65,6 +65,21 @@
 
 🔗 **Repo:** [Event-Management-Company](https://github.com/VarnikaMoorthy/Event-Management-Company)  
 
+
+### 🌐 Linktree/Bento.me Backend with Referral System  
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
+🔗 Built a **backend system** for a Linktree/Bento.me-like platform, featuring **user authentication, referral tracking, and secure API endpoints**.  
+
+🔐 Implemented **JWT authentication, password encryption (bcrypt), and referral link generation** to ensure security and scalability.  
+
+📊 Developed RESTful APIs to manage **user sign-ups, referrals, and referral statistics** efficiently.  
+
+🔗 **Repo:** [Linktree-Backend](https://github.com/VarnikaMoorthy/Referralsystem)  
+
+
 ---
 
 ## 📊 **GitHub Stats**
