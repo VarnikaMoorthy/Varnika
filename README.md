@@ -1,4 +1,5 @@
 <!-- HEADER WITH ANIMATED NEON EFFECT -->
+<br>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=0FF0FC&center=true&vCenter=true&width=800&lines=🚀+VARNIKA+MOORTHY;Backend+Developer;Tech+Innovator;AI+Enthusiast;Building+Scalable+Solutions" />
 </h1>
