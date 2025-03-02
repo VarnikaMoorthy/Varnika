@@ -1,11 +1,10 @@
 <!-- HEADER WITH ANIMATED NEON EFFECT -->
-<br>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=0FF0FC&center=true&vCenter=true&width=800&lines=🚀+VARNIKA+MOORTHY;Backend+Developer;Tech+Innovator;AI+Enthusiast;Building+Scalable+Solutions" />
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="70%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%">
 </p>
 
 ---
